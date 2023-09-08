@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
+  <link href="https://blog.consdata.tech/en/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://blog.consdata.tech/en/" rel="alternate" type="text/html" />
+  <updated>2023-09-08T05:36:11-05:00</updated>
+  <id>https://blog.consdata.tech/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Consdata - blog techniczny | </title>
+  
+
+  
+
+  
+
+  
+  
+  
+    <entry xml:lang="pl">
+      <title type="html">Czy wiesz, jak skonfigurować relacyjną bazę danych przy użyciu TestContainers?</title>
+      <link href="https://blog.consdata.tech/en/2023/09/08/czy-wiesz-jak-skonfigurowac-relacyjna-baze-danych-przy-uzyciu-testcontainers.html" rel="alternate" type="text/html" title="Czy wiesz, jak skonfigurować relacyjną bazę danych przy użyciu TestContainers?" />
+      <published>2023-09-08T02:00:00-05:00</published>
+      <updated>2023-09-08T02:00:00-05:00</updated>
+      <id>https://blog.consdata.tech/2023/09/08/czy-wiesz-jak-skonfigurowac-relacyjna-baze-danych-przy-uzyciu-testcontainers</id>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Piotr Stachowiak</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="testcontainers" />
+      
+        <category term="db2" />
+      
+        <category term="junit5" />
+      
+
+      
+        <summary type="html">Czasem w testach baza H2 nie jest wystarczająca, np. gdy używamy specyficznych dla danej bazy mechanizmów. Wtedy możemy łatwo skonfigurować TestContainers, które dostarczy nam instancje prawdziwej bazy danych na czas testów. Jak to zrobić na przykładzie DB2, Junit5 i Spring?</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.consdata.tech/assets/img/posts/2023-09-08-czy-wiesz-jak-skonfigurowac-relacyjna-baze-danych-przy-uzyciu-testcontainers/containership.jpg" />
+      
+    </entry>
+  
+    <entry xml:lang="pl">
+      <title type="html">Czy wiesz, czym są sekwencje i jak ich (nie) używać?</title>
+      <link href="https://blog.consdata.tech/en/2023/08/25/czy-wiesz-czym-sa-sekwencje-i-jak-ich-uzywac.html" rel="alternate" type="text/html" title="Czy wiesz, czym są sekwencje i jak ich (nie) używać?" />
+      <published>2023-08-25T06:00:00-05:00</published>
+      <updated>2023-08-25T06:00:00-05:00</updated>
+      <id>https://blog.consdata.tech/2023/08/25/czy-wiesz-czym-sa-sekwencje-i-jak-ich-uzywac</id>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Barbara Mitan</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="sekwencje" />
+      
+        <category term="bazy danych" />
+      
+
+      
+        <summary type="html">W sql możemy utworzyć kolumnę tak, żeby jej wartość była automatycznie inkrementowana (dekrementowana), co jest przydatne zwłaszcza w przypadku klucza głównego. W pewnych sytuacjach możemy jednak zdecydować, żeby zamiast tego skorzystać z sekwencji.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.consdata.tech/assets/img/posts/2023-08-25-czy-wiesz-czym-sa-sekwencje-i-jak-ich-uzywac/sequence.webp" />
+      
+    </entry>
+  
+    <entry xml:lang="pl">
+      <title type="html">IndexedDB - narzędzie do przechowywania danych w przeglądarce</title>
+      <link href="https://blog.consdata.tech/en/2023/08/09/indexeddb.html" rel="alternate" type="text/html" title="IndexedDB - narzędzie do przechowywania danych w przeglądarce" />
+      <published>2023-08-09T01:00:00-05:00</published>
+      <updated>2023-08-09T01:00:00-05:00</updated>
+      <id>https://blog.consdata.tech/2023/08/09/indexeddb</id>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Wojciech Stolarski</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="indexeddb" />
+      
+        <category term="webstorage" />
+      
+        <category term="database" />
+      
+        <category term="javascript" />
+      
+
+      
+        <summary type="html">IndexedDB to wbudowana w przeglądarkę internetową baza danych typu NoSQL. Przechowuje ona dane lokalnie w przeglądarce, co pozwala na korzystanie z nich nawet wtedy, gdy urządzenie nie ma połączenia z internetem. Dzięki temu IndexedDB stanowi świetną opcję dla aplikacji internetowych i jest dobrą alternatywą dla Local Storage.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.consdata.tech/assets/img/posts/2023-08-09-czy-wiesz-czym-jest-indexeddb/post_img.jpg" />
+      
+    </entry>
+  
+    <entry xml:lang="pl">
+      <title type="html">Czy wiesz, że możesz ułatwić sobie pracę, korzystając z internetowych generatorów stylów?</title>
+      <link href="https://blog.consdata.tech/en/2023/07/28/czy-wiesz-ze-mozesz-ulatwic-sobie-prace-korzystajac-z-internetowych-generatorow-stylow.html" rel="alternate" type="text/html" title="Czy wiesz, że możesz ułatwić sobie pracę, korzystając z internetowych generatorów stylów?" />
+      <published>2023-07-28T02:00:00-05:00</published>
+      <updated>2023-07-28T02:00:00-05:00</updated>
+      <id>https://blog.consdata.tech/2023/07/28/czy-wiesz-ze-mozesz-ulatwic-sobie-prace-korzystajac-z-internetowych-generatorow-stylow</id>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Piotr Grobelny</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="css" />
+      
+        <category term="generator" />
+      
+
+      
+        <summary type="html">Dzisiaj będzie o chodzeniu na skróty. Czasami przychodzi taki moment, że musimy dokonać karkołomnych czynów w css/scss. Zrobić jakąś ramkę, cień czy dzióbek do tooltipa. W tego typu sytuacjach możemy się popisać znajomością takich własności jak: radial-gradient, clip-path czy cubic-bezier. A co jeśli nie przerobiliśmy tutoriali do końca, ani nie mieliśmy okazji ich jeszcze użyć?</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.consdata.tech/assets/img/posts/2023-07-28-czy-wiesz-ze-mozesz-ulatwic-sobie-prace-korzystajac-z-internetowych-generatorow-stylow/css.jpg" />
+      
+    </entry>
+  
+    <entry xml:lang="pl">
+      <title type="html">Czy wiesz do czego służy Outlier Pattern w MongoDB?</title>
+      <link href="https://blog.consdata.tech/en/2023/07/14/czy-wiesz-do-czego-sluzy-outlier-pattern-w-mongodb.html" rel="alternate" type="text/html" title="Czy wiesz do czego służy Outlier Pattern w MongoDB?" />
+      <published>2023-07-14T02:00:00-05:00</published>
+      <updated>2023-07-14T02:00:00-05:00</updated>
+      <id>https://blog.consdata.tech/2023/07/14/czy-wiesz-do-czego-sluzy-outlier-pattern-w-mongodb</id>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Barbara Mitan</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="mongodb" />
+      
+        <category term="outlier pattern" />
+      
+
+      
+        <summary type="html">Wzorzec ten jest stosowany, kiedy większość danych można i warto zamodelować w jeden sposób, ale dla niewielkiego odsetka dokumentów, które odstają od normy, będzie to nieakceptowalne lub niemożliwe.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.consdata.tech/assets/img/posts/2023-07-14-czy-wiesz-do-czego-sluzy-outlier-pattern-w-mongodb/outlier.webp" />
+      
+    </entry>
+  
+    <entry xml:lang="pl">
+      <title type="html">Czy wiesz, że w Angular 16 pojawią się sygnały?</title>
+      <link href="https://blog.consdata.tech/en/2023/06/28/czy-wiesz-ze-w-angular-16-pojawia-sie-sygnaly.html" rel="alternate" type="text/html" title="Czy wiesz, że w Angular 16 pojawią się sygnały?" />
+      <published>2023-06-28T02:00:00-05:00</published>
+      <updated>2023-06-28T02:00:00-05:00</updated>
+      <id>https://blog.consdata.tech/2023/06/28/czy-wiesz-ze-w-angular-16-pojawia-sie-sygnaly</id>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Dorian Mejer</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="angular" />
+      
+        <category term="signals" />
+      
+
+      
+        <summary type="html">Sygnały to nowa koncepcja w Angular, upraszcza ona tworzenie reaktywnych komponentów. Mogą one w przyszłości doprowadzić do usunięcia Zone.js z Angular.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.consdata.tech/assets/img/posts/2023-06-28-czy-wiesz-ze-w-angular-16-pojawia-sie-sygnaly/angular.png" />
+      
+    </entry>
+  
+    <entry xml:lang="pl">
+      <title type="html">Czy wiesz, jak zarządzać wersjami w package.json?</title>
+      <link href="https://blog.consdata.tech/en/2023/04/05/zarzadzanie-wersjami-w-package-json.html" rel="alternate" type="text/html" title="Czy wiesz, jak zarządzać wersjami w package.json?" />
+      <published>2023-04-05T02:00:00-05:00</published>
+      <updated>2023-04-05T02:00:00-05:00</updated>
+      <id>https://blog.consdata.tech/2023/04/05/zarzadzanie-wersjami-w-package-json</id>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Dorian Mejer</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="package.json" />
+      
+        <category term="npm" />
+      
+
+      
+        <summary type="html">package.json jest plikiem, który opisuje każdy projekt oparty o Node.js. Jedną z jego najważniejszych ról jest przechowywanie informacji o zależnościach projektu. Wersję zależności można wskazać na kilka sposobów używając do tego operatorów - ten wpis przybliża ich znaczenie. Większość operatorów jest przydatna, jeżeli zależna paczka stosuje semantyczne wersjonowanie (major.minor.patch).</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.consdata.tech/assets/img/posts/2023-04-05-zarzadzanie-wersjami-w-package-json/keyboard.jpg" />
+      
+    </entry>
+  
+    <entry xml:lang="pl">
+      <title type="html">Figma - narzędzie do projektowania interfejsu użytkownika</title>
+      <link href="https://blog.consdata.tech/en/2023/02/15/uiux-tools.html" rel="alternate" type="text/html" title="Figma - narzędzie do projektowania interfejsu użytkownika" />
+      <published>2023-02-15T01:00:00-06:00</published>
+      <updated>2023-02-15T01:00:00-06:00</updated>
+      <id>https://blog.consdata.tech/2023/02/15/uiux-tools</id>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Juris Lavrinovics</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="ui/ux" />
+      
+        <category term="figma" />
+      
+
+      
+        <summary type="html">Figma - jest bardzo popularnym i mocno rozwijającym się narzędziem do projektowania i prototypowania zaawansowanych interfejsów aplikacji mobilnych oraz stron internetowych. W Figmie mogą współpracować projektanci, marketerzy, menedżerowie oraz programiści, wspólnie tworząc lub też omawiając na bieżąco wygląd powstającej aplikacji. Figma zyskała swoją przewagę na rynku przed innymi rozwiązaniami dzięki interaktywnym widokom, prostemu i intuicyjnemu interfejsowi oraz bogatej funkcjonalności.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.consdata.tech/assets/img/posts/2023-02-15-uiux-tools/uiux-tools.jpg" />
+      
+    </entry>
+  
+    <entry xml:lang="pl">
+      <title type="html">Dobór limitów pamięci w Javie (w kontenerach i nie tylko)</title>
+      <link href="https://blog.consdata.tech/en/2022/12/15/memory-java.html" rel="alternate" type="text/html" title="Dobór limitów pamięci w Javie (w kontenerach i nie tylko)" />
+      <published>2022-12-15T23:00:00-06:00</published>
+      <updated>2022-12-15T23:00:00-06:00</updated>
+      <id>https://blog.consdata.tech/2022/12/15/memory-java</id>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Marcin Mergo</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Java" />
+      
+        <category term="oom" />
+      
+        <category term="memory" />
+      
+        <category term="limit" />
+      
+        <category term="kubernetes" />
+      
+        <category term="openshift" />
+      
+
+      
+        <summary type="html">Geneza problemu Słowem wstępu: nasz projekt działa na OpenShifcie, który jest niczym innym jak Kubernetesem z dodatkowymi bajerami. Z tego też tytułu wszystko tutaj dzieje się w kontenerach. Natomiast część wniosków, do których doszliśmy, aplikuje się nie tylko do procesów Javy chodzących w kontenerze, ale też Javy odpalonej “po staremu”, bez kontenerów.</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.consdata.tech/assets/img/posts/2022-12-01-memory-java/memory.jpg" />
+      
+    </entry>
+  
+    <entry xml:lang="pl">
+      <title type="html">Czy wiesz jak poprawnie tworzyć kontekst JAXB i instancję Marshallera/Unmarshallera?</title>
+      <link href="https://blog.consdata.tech/en/2022/11/07/jaxb.html" rel="alternate" type="text/html" title="Czy wiesz jak poprawnie tworzyć kontekst JAXB i instancję Marshallera/Unmarshallera?" />
+      <published>2022-11-07T23:00:00-06:00</published>
+      <updated>2022-11-07T23:00:00-06:00</updated>
+      <id>https://blog.consdata.tech/2022/11/07/jaxb</id>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Jakub Wilczewski</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="jaxb" />
+      
+        <category term="java" />
+      
+        <category term="marshaller" />
+      
+        <category term="unmarshaller" />
+      
+
+      
+        <summary type="html">W naszych projektach często używamy JAXB w celu mapowania danych przesyłanych kopertach SOAP-owych na obiekty javowe. Aby wykonać takie mapowanie należy:</summary>
+      
+
+      
+      
+        
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.consdata.tech/assets/img/posts/2022-11-08-jaxb/jaxb.jpg" />
+      
+    </entry>
+  
+</feed>
